@@ -21,7 +21,7 @@ A simple code to upload animated profile picture to Discord Bot.
    - Rename `.env.example` to `.env`
    - Fill in your Discord bot token in the `.env` file
   
-4. **Add Images**
+4. **Add Image**
    - Drag and drop your animated profile picture into the **images** folder
 
 5. **Start the Application**
