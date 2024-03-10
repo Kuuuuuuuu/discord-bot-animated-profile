@@ -1,0 +1,17 @@
+{
+  "name": "discord-bot-animated-profile",
+  "version": "1.0.0",
+  "description": "A simple code to upload animated profile picture to Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": {
+    "name": "Nayuki (Kuuuuuuuu)",
+    "email": "me@nayuki.cyou"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
